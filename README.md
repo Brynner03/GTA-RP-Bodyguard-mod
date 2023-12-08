@@ -15,7 +15,7 @@ The **GTA RP Bodyguard Mod** allows players to summon a bodyguard within the gam
 
 1. **Clone or Download:** Obtain the mod files by cloning this repository or downloading the ZIP file.
 2. **Install Mod Files:** Copy and install the mod files into the game's directory.
-3. **Activate Mod:** Launch the game and activate the mod through the mod menu or according to provided instructions.
+3. **Activate Mod:** Go to the servers cfg file [server.cfg] and make sure to include it as one of its dependencies. You can do this by typing [ensure bodyguard].
 
 ## Usage
 
