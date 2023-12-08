@@ -1,0 +1,5 @@
+C:\Users\bvent\source\repos\Bodyguard\output\Client.net.dll
+C:\Users\bvent\source\repos\Bodyguard\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\bvent\source\repos\Bodyguard\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\bvent\source\repos\Bodyguard\Client\obj\Debug\Client.net.dll
+C:\Users\bvent\source\repos\Bodyguard\output\__resource.lua
