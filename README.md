@@ -1,6 +1,6 @@
 # GTA RP Bodyguard Mod
 
-![Image of Bodyguard](picture/image.png)
+![Image of Bodyguard](picture/image.PNG)
 
 ## Overview
 
