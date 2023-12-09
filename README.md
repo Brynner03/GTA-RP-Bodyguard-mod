@@ -19,5 +19,6 @@ The **GTA RP Bodyguard Mod** allows players to summon a bodyguard within the gam
 
 ## Usage
 
-- **Summoning:** To summon the bodyguard in-game, simply type the [/bodyguard] command in chat.
+- **Summoning:** To summon the bodyguard in-game, simply type the [/bg_create] command in chat.
 - **Behavior:** The bodyguard will follow the player and engage in combat if enemies are detected.
+- **Removing:** To remove the bodyguard, use the [/bg_remove] command in chat.
